@@ -46,6 +46,8 @@
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot]
+
+<br>
 This is popular Flappy bird game developed using Python pygame module!
 
 ### Built With
