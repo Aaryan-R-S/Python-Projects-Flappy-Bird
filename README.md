@@ -69,14 +69,19 @@ To get a local copy up and running follow these simple steps.
 3. GitHub Account ([Sign Up](https://github.com))
 
 
-### Installation
+### Installation and Setup
 
 - Clone the repo
    ```sh
    git clone https://github.com/Aaryan-R-S/Python-Projects-Flappy-Bird.git
    ```
-- Python Modules
-  - `pip install pygame`
+- Install the Environment
+  - pip install virtualenv
+  - cd Python-Projects-Flappy-Bird
+  - virtualenv venv
+  - venv\Scripts\activate (windows)
+  - source venv/bin/activate (UNIX systems)
+  - pip install -r requirements.txt
 
 <!-- ROADMAP -->
 ## Roadmap
